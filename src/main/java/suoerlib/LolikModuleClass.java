@@ -8,5 +8,6 @@ public class LolikModuleClass {
 
     public void azaza(){
         System.out.println("asdasd");
+        System.out.println("asdasd1");
     }
 }
